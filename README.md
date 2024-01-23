@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Tokopedia
-- 📫 How to reach me @azeedishere on instagram
+- 📫 How to reach me @ziidsbox on instagram
 
 <!---
 Bhayazeed/Bhayazeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
