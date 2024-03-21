@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bhayazeed
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Tokopedia
 - 📫 How to reach me @ziidsbox on instagram
 
 <!---
