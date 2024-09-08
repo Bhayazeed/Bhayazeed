@@ -16,6 +16,7 @@
   <a href="https://github.com/Bhayazeed"><img align="center" height="165px" src="https://readme-status-bay.vercel.app/api?username=Bhayazeed&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="Bhayazeed ::: Profile Statistics" /></a>
   <br><br/>
   <a href="https://github.com/Bhayazeed"><img align="center" height="170px" width="390px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=AdonNeet&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="Bhayazeed ::: Top 8 Langs" /></a>
+  <br>
   Counted Visitor
   <br>
   <a href="https://github.com/Bhayazeed"><img height="170px" src="https://count.getloli.com/get/@:Bhayazeed?theme=asoul" alt="Visitor Counter" /></a>
