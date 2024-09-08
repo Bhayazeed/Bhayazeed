@@ -4,7 +4,7 @@
     ZiidsBox
   </b>
 </h1>
-<h3>
+<h3 style="text-align: center">
   Hello, I AM ZIID<br>
   Python and ML Enthusiast                         
 </h3>
