@@ -7,6 +7,8 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 <a href="#"><img align="left" alt="Vue" title="Vue" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Quasar" title="Quasar" width="21px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+<br>
+<br>
 
 ### Github Statistic
 <p align="left">
