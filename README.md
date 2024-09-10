@@ -2,11 +2,12 @@
 
 A Student interested on Machine Learning and Web Development, I'm currently learning Python for Machine Learning and also Vue Framework for Javascript
 
-### Tech Stack
+### Tech I Use
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Vue" title="Vue" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
-<a href="#"><img align="left" alt="Quasar" title="Quasar" width="30px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" /></a>
+<a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+<a href="#"><img align="left" alt="Numpy" title="Numpy" width="30px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" /></a>
 <br>
 <br>
 
