@@ -10,8 +10,6 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=Bhayazeed&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36"   alt="Bhayazeed ::: Streaks">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
