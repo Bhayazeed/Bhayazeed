@@ -12,16 +12,13 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 
 ### Github Statistic
 <p align="left">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/m-bhayaziid-amalin-b8839a2a0/">LinkedIn</a>
-
-### Counted Visitor
-  <a href="https://github.com/Bhayazeed"><img height="170px" src="https://count.getloli.com/get/@:Bhayazeed?theme=asoul" alt="Visitor Counter" /></a>
 
 
 <!---
