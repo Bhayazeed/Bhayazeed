@@ -1,14 +1,28 @@
-<hr style="background:#F87431; border:1; height:9px" />
-<p align="center">
-  <a href="https://github.com/Bhayazeed"><img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=Bhayazeed&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="Bhayazeed ::: Streaks" /></a>
-  <a href="https://github.com/Bhayazeed"><img align="center" height="165px" src="https://readme-status-bay.vercel.app/api?username=Bhayazeed&show_icons=true&count_private=false&include_all_commits=true&hide_border=true&theme=dracula&icon_color=CA2E55&title_color=20fc8f&custom_title=My+Data" alt="Bhayazeed ::: Profile Statistics" /></a>
-  <br><br/>
-  <a href="https://github.com/Bhayazeed"><img align="center" height="170px" width="390px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=Bhayazeed&hide_border=true&langs_count=8&custom_title=Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine,hacktrace&hide=css,html,svelte&layout=compact&card_width=280" alt="Bhayazeed ::: Top 8 Langs" /></a>
-  <br> <br>
-  Counted Visitor
-  <br>
-  <a href="https://github.com/Bhayazeed"><img height="170px" src="https://count.getloli.com/get/@:Bhayazeed?theme=asoul" alt="Visitor Counter" /></a>
+### Hi! 👋 I'm Yaziid.
+
+A Student interested on Machine Learning and Web Development, I'm currently learning Python for Machine Learning and also Vue Framework for Javascript
+
+### Tech Stack
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Vue" title="Vue" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Quasar" title="Quasar" width="21px" src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img align="center" height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=Bhayazeed&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36"   alt="Bhayazeed ::: Streaks">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/m-bhayaziid-amalin-b8839a2a0/">LinkedIn</a>
+
+### Counted Visitor
+  <a href="https://github.com/Bhayazeed"><img height="170px" src="https://count.getloli.com/get/@:Bhayazeed?theme=asoul" alt="Visitor Counter" /></a>
+
 
 <!---
 Bhayazeed/Bhayazeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
