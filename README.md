@@ -12,8 +12,8 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 
 ### Github Statistic
 <p align="left">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhayazeed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
