@@ -20,7 +20,7 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 
 ### Codewars Profile
 <p align="left">
-  <a href="https://www.codewars.com/users/azeed/stats">
+  <a href="https://www.codewars.com/users/azeed/stats" target=_blank>
     <img src="https://www.codewars.com/users/azeed/badges/large">
   </a>
 </p>
