@@ -18,6 +18,13 @@ A Student interested on Machine Learning and Web Development, I'm currently lear
 </a>
 </p>
 
+### Codewars Profile
+<p align="left">
+  <a href="https://www.codewars.com/users/azeed/stats">
+    <img src="https://www.codewars.com/users/azeed/badges/large">
+  </a>
+</p>
+
 ### Reach me on
 - <a href="https://www.linkedin.com/in/m-bhayaziid-amalin-b8839a2a0/">LinkedIn</a>
 
