@@ -4,18 +4,11 @@ A Student interested on Machine Learning and Data Science, I'm currently learnin
 
 ### Tech I Use
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-<a href="#"><img align="left" alt="Numpy" title="Numpy" width="30px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" /></a>
-<a href="#"><img align="left" alt="Pytorch" title="Pytorch" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" /></a>
-<a href="#"><img align="left" alt="Tensorflow" title="Tensorflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" /></a>
+<a href="#"><img align="left" alt="C#" title="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /></a>
 
 <br>
 <br>
 
-### Github Statistic
-<p align="left">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhayazeed&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### Codewars Profile
 <p align="left">
